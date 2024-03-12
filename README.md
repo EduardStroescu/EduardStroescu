@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h2 align="center">I'm a dedicated self-taught front-end developer based in Romania. My enthusiasm for software development revolves around conceptualizing ideas and bringing them to life through responsive, performant, accessible and creative web experiences. Being a visually-oriented individual, I've immediately fallen in love with Threejs, React-Three-Fiber and animation libraries like React-Spring/Framer-Motion/Gsap, which made me start my journey through programming.</h3>
+<p align="center">I'm a dedicated self-taught front-end developer based in Romania. My enthusiasm for software development revolves around conceptualizing ideas and bringing them to life through responsive, performant, accessible and creative web experiences. Being a visually-oriented individual, I've immediately fallen in love with Threejs, React-Three-Fiber and animation libraries like React-Spring/Framer-Motion/Gsap, which made me start my journey through programming.</p>
 
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
