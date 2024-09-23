@@ -5,13 +5,13 @@
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,css,react,nextjs,threejs,tailwind,sass,nodejs,supabase,mongodb,redux,graphql,cypress,vitest,jest,docker,git,figma,blender,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,css,react,nextjs,threejs,tailwind,sass,nodejs,express,nestjs,postgres,supabase,mongodb,redis,prisma,redux,graphql,cypress,vitest,jest,docker,git,githubactions,npm,vite,vercel,postman,figma,blender,photoshop&theme=dark" />
   </a>
 </p>
 
 - 🌱 I’m currently learning **Expo, React-Native, Solito, Next.js etc.**
 
-- 💻 All of my projects are available at [eduardstroescu.com](https://www.eduardstroescu.com)
+- 💻 All of my projects are available at [eduardstroescu.com](https://eduardstroescu.com)
 
 - 📫 How to reach me: **eduard.stroescu@gmail.com**
 
